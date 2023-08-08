@@ -1,3 +1,7 @@
+# Reference
+Check the Zerion API at
+https://developers.zerion.io/reference/getting-started
+
 # Zerion API demo
 
 This demo shows how to use Zerion API so save daily holdings of defined wallets (in config.json)
