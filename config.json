@@ -1,0 +1,21 @@
+{
+    "zerion": {
+        "low_balance": {
+            "ignore": true,
+            "thresholdUSD": 5
+        },
+        "apiKey": "<insert your Zerion API key here>"
+    },
+    "wallets":
+    [
+        {
+            "id": "ETH Wallet",
+            "address": "0x305d12834643148faaa8539c5cbca3642b8ecebe"
+        },
+        {
+            "id": "MATIC wallet",
+            "address": "0x926f79130c76f616ff8DDB25c4D8fa31Fb278810"
+        }
+    ]
+
+}
